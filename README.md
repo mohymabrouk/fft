@@ -1,2 +1,2 @@
-# quantum-fft
+# fft-qfft
 To be modified

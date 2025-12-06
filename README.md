@@ -1,4 +1,4 @@
-# FFT & Quantum FFT Implementation
+# FFT
 
 Ce projet permet d’appliquer la transformée de Fourier rapide (FFT) sur des fichiers audio et des images, pour visualiser leur spectre de fréquences ou effectuer une compression.
 
